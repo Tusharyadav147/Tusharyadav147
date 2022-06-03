@@ -1,7 +1,7 @@
 Hi 👋 My name is Tushar Sonp
 ============================
 
-I'm Tushar ,a Data Science Student From Madhya Pradesh, India.
+I'm Tushar, a Data Science Student From Madhya Pradesh, India.
 ---------------------------------------------------------------
 
 I'm learning coding since last 1 year. As python play a very impotant role in the field of Data Science. So, I've start coding with python and had completed a end-to-end project using Flask. Till now i have learnt MySQL, MongoDB, PowerBI, and PySpark. Now I'm corrently working on Machine Learning projects.
