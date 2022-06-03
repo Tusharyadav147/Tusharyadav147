@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Meghanshu kumrawat</h1>
-<h3 align="center">Hi there, I'm Meghanshu Kumrawat, a Data Science student 🚀 from Madhya Pradesh, India, currently, I'm a Python developer.👨🏽‍💼.</h3>
+<h1 align="center">Hi 👋, I'm Tushar Sonp</h1>
+<h3 align="center">Hi there, I'm Tushar Sonp, a Data Science student 🚀 from Madhya Pradesh, India, currently, I'm a Python developer.👨🏽‍💼.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghanshukumrawat" alt="meghanshukumrawat" /> </p>
 
