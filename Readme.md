@@ -47,6 +47,7 @@ I'm learning coding since last 1 year. As python play a very impotant role in th
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanshukumrawat&show_icons=true" alt="meghanshukumrawat" /></p>
 
 <p align="center">
+<a href="https://www.facebook.com/profile.php?id=100005288322554" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="meghanshu" height="30" width="30" /></a>
 <a href="https://www.instagram.com/tushar_0420_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meghanshu" height="30" width="30" /></a>
 <a href="https://github.com/Tusharyadav147" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="meghanshu" height="30" width="30" /></a>
 <a href="yadavt147@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="meghanshu" height="30" width="30" /></a>
