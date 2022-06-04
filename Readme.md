@@ -32,7 +32,10 @@ I'm learning coding since last 1 year. As python play a very impotant role in th
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Tusharyadav147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tushar-sonp-7022b120b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yadavt147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Tusharyadav147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tushar-sonp-7022b120b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yadavt147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005288322554" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="meghanshu" height="30" width="30" /></a>
+<a href="https://www.instagram.com/tushar_0420_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meghanshu" height="30" width="30" /></a>
+<a href="yadavt147@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="meghanshu" height="30" width="30" /></a></p>
 
 ### Badges
 
@@ -44,11 +47,3 @@ I'm learning coding since last 1 year. As python play a very impotant role in th
 
 <a href="http://www.github.com/Tusharyadav147"><img src="https://activity-graph.herokuapp.com/graph?username=Tusharyadav147&bg_color=27272a&color=ffffff&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanshukumrawat&show_icons=true" alt="meghanshukumrawat" /></p>
-
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=100005288322554" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="meghanshu" height="30" width="30" /></a>
-<a href="https://www.instagram.com/tushar_0420_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meghanshu" height="30" width="30" /></a>
-<a href="https://github.com/Tusharyadav147" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="meghanshu" height="30" width="30" /></a>
-<a href="yadavt147@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="meghanshu" height="30" width="30" /></a>
-</p>
