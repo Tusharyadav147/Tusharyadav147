@@ -43,3 +43,11 @@ I'm learning coding since last 1 year. As python play a very impotant role in th
 <a href="http://www.github.com/Tusharyadav147"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharyadav147&stroke=ffffff&background=27272a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Tusharyadav147"><img src="https://activity-graph.herokuapp.com/graph?username=Tusharyadav147&bg_color=27272a&color=ffffff&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanshukumrawat&show_icons=true" alt="meghanshukumrawat" /></p>
+
+<p align="center">
+<a href="https://www.instagram.com/tushar_0420_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meghanshu" height="30" width="30" /></a>
+<a href="https://github.com/Tusharyadav147" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="meghanshu" height="30" width="30" /></a>
+<a href="yadavt147@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="meghanshu" height="30" width="30" /></a>
+</p>
