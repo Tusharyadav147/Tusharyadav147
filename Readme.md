@@ -1,7 +1,7 @@
 Hi 👋 My name is Tushar Sonp
 ============================
 
-I'm Tushar, a Data Science Student From Madhya Pradesh, India.
+I'm Tushar, Currently working as a Python Developer in Golden Eagle IT Technology, Indore, Madhya Pradesh.
 ---------------------------------------------------------------
 <a href="https://www.twitter.com/yadavt147" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yadavt147?logo=twitter&style=for-the-badge&color=22c55e&labelColor=27272a"
@@ -9,7 +9,7 @@ src="https://img.shields.io/twitter/follow/yadavt147?logo=twitter&style=for-the-
 src="https://img.shields.io/github/followers/Tusharyadav147?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
 ![](https://komarev.com/ghpvc/?username=Tusharyadav147&label=PROFILE+VIEWS)
 
-I'm learning coding since last 1 year. As python play a very impotant role in the field of Data Science. So, I've start coding with python and had completed a end-to-end project using Flask. Till now i have learnt MySQL, MongoDB, PowerBI, Machine Learning and PySpark with hands on practicals. Also with this I have completed 2-3 Machine Learning end-to-end projects. Now I'm corrently Learning Deep Learning with practicals, along with working on more Machine Learning Projects.
+I'm learning coding since last 2 year. As python play a very impotant role in the field of Data Science. So, I've start coding with python and had completed a end-to-end project using Flask. Till now i have learnt MySQL, MongoDB, PowerBI, Machine Learning and PySpark with hands on practicals. Also with this I have completed 2-3 Machine Learning end-to-end projects. Now I'm corrently Learning Deep Learning with practicals, along with working on more Machine Learning Projects.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [yadavt147@gmail.com](mailto:yadavt147@gmail.com)
