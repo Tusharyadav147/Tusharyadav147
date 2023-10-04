@@ -4,28 +4,28 @@ I'm a Python Developer at [Golden Eagle IT Technologies](https://www.linkedin.co
 
 ## 🚀 Technologies & Tools
 
-- Apache Airflow
-- Amazon Web Services (AWS)
-- AWS Glue
-- AWS CodeCommit
-- Amazon S3
-- Amazon Athena
-- Amazon Elastic MapReduce (EMR)
-- Django
-- Seaborn
-- Pandas
-- NumPy
-- TensorFlow
-- OpenCV
-- PostgreSQL
-- GraphQL
-- Scikit-Learn
-- Deep Learning
-- Apache Spark
-- PySpark
-- Python (Programming Language)
-- Flask
-- Machine Learning
+- Apache Airflow :wind_blowing_face:
+- Amazon Web Services (AWS) :aws:
+- AWS Glue :adhesive_bandage:
+- AWS CodeCommit :link:
+- Amazon S3 :file_folder:
+- Amazon Athena :owl:
+- Amazon Elastic MapReduce (EMR) :world_map:
+- Apache Spark :zap:
+- PySpark :sparkles:
+- Seaborn :bar_chart:
+- Pandas :panda_face:
+- NumPy :1234:
+- TensorFlow :robot:
+- OpenCV :eye:
+- Scikit-Learn :chart_with_upwards_trend:
+- Python (Programming Language) :snake:
+- Machine Learning :robot:
+- Deep Learning :brain:
+- Django :django:
+- PostgreSQL :bar_chart:
+- MongoDB :mongo:
+
 
 ## ⚡️ About Me
 
@@ -43,17 +43,17 @@ I'm passionate about leveraging technology to solve complex problems. Over the p
 
 ## 📈 GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusharyadavt147&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusharyadav147&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 Currently Learning
 
-- [Technology/Tool Name](https://example.com) - Brief description.
+- [Technology/Tool Working On](https://example.com) - Python Programming | PySpark | AWS | Machine Learning | Deep Learning | TensorFlow | OpenCV | Django| Flask | PostgresSQL | MySQL | MongoDB.
 
 ## 📫 Get in touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tushar-sonp-7022b120b/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/TSonp71590)
+- LinkedIn: [Tushar Sonp](https://www.linkedin.com/in/tushar-sonp-7022b120b/)
+- Twitter: [@tushar_sonp](https://twitter.com/TSonp71590)
 
 Feel free to reach out and connect!
-Email: tusharsonp303@gmail.com
-Contact No.: +91 8085545457
+- Email: tusharsonp303@gmail.com
+- Contact No.: [+91 8085545457](https://example.com)
