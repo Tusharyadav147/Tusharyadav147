@@ -1,46 +1,59 @@
-Hi 👋 My name is Tushar Sonp
-============================
+# Hi there, I'm Tushar Sonp! 👋
 
-I'm Tushar, Currently working as a Python Developer in Golden Eagle IT Technology, Indore, Madhya Pradesh.
----------------------------------------------------------------
-<a href="https://www.twitter.com/yadavt147" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yadavt147?logo=twitter&style=for-the-badge&color=22c55e&labelColor=27272a"
-/></a><a href="https://www.github.com/Tusharyadav147" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Tusharyadav147?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
-![](https://komarev.com/ghpvc/?username=Tusharyadav147&label=PROFILE+VIEWS)
+I'm a Python Developer at [Golden Eagle IT Technologies](https://www.linkedin.com/company/geitpl/mycompany/), with 1 year of experience in various technologies including AWS Services, PySpark, Airflow, and more.
 
-I'm learning coding since last 2 year. As python play a very impotant role in the field of Data Science. So, I've start coding with python and had completed a end-to-end project using Flask. Till now i have learnt MySQL, MongoDB, PowerBI, Machine Learning and PySpark with hands on practicals. Also with this I have completed 2-3 Machine Learning end-to-end projects. Now I'm corrently Learning Deep Learning with practicals, along with working on more Machine Learning Projects.
+## 🚀 Technologies & Tools
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [yadavt147@gmail.com](mailto:yadavt147@gmail.com)
-* 🧠  I'm learning Data Science
-* 🤝  I'm open to collaborating on Machine Learning
+- Apache Airflow
+- Amazon Web Services (AWS)
+- AWS Glue
+- AWS CodeCommit
+- Amazon S3
+- Amazon Athena
+- Amazon Elastic MapReduce (EMR)
+- Django
+- Seaborn
+- Pandas
+- NumPy
+- TensorFlow
+- OpenCV
+- PostgreSQL
+- GraphQL
+- Scikit-Learn
+- Deep Learning
+- Apache Spark
+- PySpark
+- Python (Programming Language)
+- Flask
+- Machine Learning
 
-### Skills
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-</p>
+## ⚡️ About Me
+
+I'm passionate about leveraging technology to solve complex problems. Over the past year, I've honed my skills in Python development and have gained valuable experience in AWS Services, PySpark, Airflow, and more. I'm eager to tackle new challenges and continue expanding my knowledge in the field of software development.
+
+## 🌟 Roles and Responsibilities
+
+- Currently working on a Data Engineering Project using cloud platforms such as AWS (EMR, AWS Glue, Athena, CodeCommit, S3, EC2) with PySpark to create ETL pipelines and Airflow to schedule ETL jobs.
+- Designed, developed, and maintained end-to-end ETL (Extract, Transform, Load) pipelines using AWS services, Airflow, and Matillion to ensure efficient and reliable data processing and integration.
+- Utilized PySpark as the primary programming language to implement data transformations, data quality checks, and other data manipulation tasks, optimizing pipeline performance.
+- Played a key role in establishing and maintaining data lineage documentation using Alation, enabling clear visibility into data flow and transformations for compliance and auditing purposes.
+- Actively participated in Agile development methodologies by utilizing Atlassian suite tools such as Jira for issue tracking and Confluence for documentation, ensuring efficient project management and communication.
+- Optimized AWS resources usage by implementing cost-effective solutions, such as resource scaling, spot instances, and utilizing serverless architectures, resulting in reduced operational costs.
 
 
-### Badges
+## 📈 GitHub Stats
 
-<b>My GitHub Stats</b>
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusharyadavt147&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://www.github.com/Tusharyadav147"><img src="https://github-readme-stats.vercel.app/api?username=Tusharyadav147&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="Tusharyadav147's GitHub stats" /></a>
+## 🌱 Currently Learning
 
-<a href="http://www.github.com/Tusharyadav147"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharyadav147&stroke=ffffff&background=27272a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- [Technology/Tool Name](https://example.com) - Brief description.
 
-<a href="http://www.github.com/Tusharyadav147"><img src="https://activity-graph.herokuapp.com/graph?username=Tusharyadav147&bg_color=27272a&color=ffffff&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 📫 Get in touch
 
-### Socials
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tushar-sonp-7022b120b/)
+- Twitter: [@yourtwitterhandle](https://twitter.com/TSonp71590)
 
-<p align="center"> <a href="https://www.github.com/Tusharyadav147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tushar-sonp-7022b120b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yadavt147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005288322554" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tushar_0420_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-</p>
+Feel free to reach out and connect!
+Email: tusharsonp303@gmail.com
+Contact No.: +91 8085545457
