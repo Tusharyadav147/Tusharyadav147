@@ -4,8 +4,8 @@ I'm a Python Developer at [Golden Eagle IT Technologies](https://www.linkedin.co
 
 ## 🚀 Technologies & Tools
 
-- Apache Airflow :wind_blowing_face:
-- Amazon Web Services (AWS) :aws:
+- Apache Airflow
+- Amazon Web Services (AWS)
 - AWS Glue :adhesive_bandage:
 - AWS CodeCommit :link:
 - Amazon S3 :file_folder:
@@ -24,7 +24,7 @@ I'm a Python Developer at [Golden Eagle IT Technologies](https://www.linkedin.co
 - Deep Learning :brain:
 - Django :django:
 - PostgreSQL :bar_chart:
-- MongoDB :mongo:
+- MongoDB
 
 
 ## ⚡️ About Me
