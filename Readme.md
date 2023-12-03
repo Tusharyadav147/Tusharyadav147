@@ -52,6 +52,7 @@ I'm passionate about leveraging technology to solve complex problems. Over the p
 ## 📫 Get in touch
 
 - LinkedIn: [Tushar Sonp](https://www.linkedin.com/in/tushar-sonp-7022b120b/)
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="tushar-sonp-7022b120b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tushar-sonp-7022b120b?trk=profile-badge">Tushar Sonp</a></div>
 - Twitter: [@tushar_sonp](https://twitter.com/TSonp71590)
 
 Feel free to reach out and connect!
