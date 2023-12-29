@@ -46,6 +46,10 @@ I'm passionate about leveraging technology to solve complex problems. Over the p
 [![Tushar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tusharyadav147&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Tushar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Tusharyadav147&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+## Techologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharyadav147&hide_progress=true)
+
 ## 🌱 Currently Learning
 
 - [Technology/Tool Working On](https://example.com) - Python Programming | PySpark | AWS | Machine Learning | Deep Learning | TensorFlow | OpenCV | Django| Flask | PostgresSQL | MySQL | MongoDB.
