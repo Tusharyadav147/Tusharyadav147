@@ -43,7 +43,8 @@ I'm passionate about leveraging technology to solve complex problems. Over the p
 
 ## 📈 GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusharyadav147&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Tushar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tusharyadav147&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Tushar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Tusharyadav147&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 🌱 Currently Learning
 
