@@ -48,7 +48,9 @@ I'm passionate about leveraging technology to solve complex problems. Over the p
 
 ## Techologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharyadav147&hide_progress=true)
+<a href="https://github.com/anuraghazra/convoychat">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tusharyadavt147&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## 🌱 Currently Learning
 
